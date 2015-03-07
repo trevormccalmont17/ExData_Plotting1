@@ -1,4 +1,4 @@
-# This script creates plot2 .png
+# This script creates plot2.png
 
 # Import the data
 
