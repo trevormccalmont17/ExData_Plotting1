@@ -3,7 +3,7 @@
 # Import the data
 
 dat <- read.csv("household_power_consumption.txt", header=TRUE,
-                sep=";", stringsAsFactors = FALSE)
+     sep=";", stringsAsFactors = FALSE)
 
 # Convert the dates to the correct format and subset the data
 
